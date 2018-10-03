@@ -1,0 +1,40 @@
+[
+	{
+		"name": "Mineplex",
+		"ip": "pe.mineplex.com",
+		"type": "PE"
+	},
+	{
+		"name": "Lifeboat",
+		"ip": "play.lbsg.net",
+		"type": "PE"
+	},
+	{
+		"name": "InPvP",
+		"ip": "play.inpvp.net",
+		"type": "PE",
+		"color": "#A874AB"
+	},
+	{
+		"name": "CookieBuild",
+		"ip": "pe.cookie-build.com",
+		"type": "PE"
+	},
+	{
+		"name": "PigRaid",
+		"ip": "pvp.pigraid.com",
+		"type": "PE"
+	 },
+	 {
+	   "name": "CubeCraft",
+	   "ip": "mco.cubecraft.net",
+	   "type": "PE",
+	   "color": "#176093"
+	 },
+	 {
+		"name": "Hive Games",
+		"ip": "hivebedrock.network",
+		"type": "PE",
+		"color": "#ffcb03"
+	  }
+]
